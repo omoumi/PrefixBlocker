@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prefix Blocker</string>
+    <string name="enable">Enable call blocking</string>
+    <string name="status_on">Blocking is active</string>
+    <string name="status_paused">Blocking is paused</string>
+    <string name="status_no_role">Permission needed: tap the button below</string>
+    <string name="switch_title">Blocking</string>
+    <string name="switch_sub">Pause without losing your prefixes</string>
+    <string name="prefixes_title">Blocked prefixes</string>
+    <string name="prefixes_sub">One prefix per line</string>
+    <string name="hint_example">e.g.\n0912\n+1800</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved %d prefix(es)</string>
+    <string name="history_title">Blocked calls</string>
+    <string name="history_count">%d total</string>
+    <string name="history_empty">No calls blocked yet</string>
+    <string name="clear_history">Clear history</string>
+    <string name="role_unavailable">Call screening is not available on this device</string>
+</resources>
